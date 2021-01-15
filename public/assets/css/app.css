@@ -1,0 +1,8 @@
+.controles {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.controles button{
+    margin-left: 10pt;
+}
